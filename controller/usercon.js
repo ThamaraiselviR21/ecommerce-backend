@@ -103,7 +103,7 @@ exports.loginUser=async(req,res)=>{
                 });
         } 
         //auth 30days
-        const token=jwt.sign({_id:user.id},process.env.jwt_SECRET,{expiresIn:"10d"});
+        const token=jwt.sign({_id:user.id},process.env.JWT_SECRET,{expiresIn:"10d"});
         //remove password for token generate
         const{password:userPassword, ...userDel}=user.toObject();
 
