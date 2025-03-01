@@ -1,0 +1,127 @@
+{
+  "products": [
+    {
+      "_id": "677ff3dde066db2c704cc27f",
+      "title": "Wireless Mouse",
+      "description": "A high-quality wireless mouse with ergonomic design.",
+      "stock": 50,
+      "price": 25.99,
+      "image": [
+        "https://example.com/images/wireless-mouse-front.jpg",
+        "https://example.com/images/wireless-mouse-back.jpg"
+      ],
+      "seller": "TechGear",
+      "category": "Electronics"
+    },
+    {
+      "_id": "677ff3dde066db2c704cc280",
+      "title": "Gaming Keyboard",
+      "description": "RGB backlit gaming keyboard with mechanical switches.",
+      "stock": 30,
+      "price": 59.99,
+      "image": [
+        "https://example.com/images/gaming-keyboard-top.jpg",
+        "https://example.com/images/gaming-keyboard-side.jpg"
+      ],
+      "seller": "GameWorld",
+      "category": "Electronics"
+    },
+    {
+      "_id": "677ff3dde066db2c704cc281",
+      "title": "Smartphone Stand",
+      "description": "Adjustable smartphone stand for hands-free usage.",
+      "stock": 100,
+      "price": 10.99,
+      "image": [
+        "https://example.com/images/smartphone-stand-front.jpg"
+      ],
+      "seller": "GadgetCo",
+      "category": "Accessories"
+    },
+    {
+      "_id": "677ff3dde066db2c704cc282",
+      "title": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with deep bass and 12-hour battery life.",
+      "stock": 40,
+      "price": 39.99,
+      "image": [
+        "https://example.com/images/bluetooth-speaker.jpg"
+      ],
+      "seller": "SoundMax",
+      "category": "Electronics"
+    },
+    {
+      "_id": "677ff3dde066db2c704cc283",
+      "title": "Running Shoes",
+      "description": "Lightweight running shoes with excellent grip and cushioning.",
+      "stock": 75,
+      "price": 49.99,
+      "image": [
+        "https://example.com/images/running-shoes-front.jpg",
+        "https://example.com/images/running-shoes-side.jpg"
+      ],
+      "seller": "FitWear",
+      "category": "Footwear"
+    },
+    {
+      "_id": "677ff3dde066db2c704cc284",
+      "title": "Coffee Mug",
+      "description": "Ceramic coffee mug with a stylish design.",
+      "stock": 120,
+      "price": 8.99,
+      "image": [
+        "https://example.com/images/coffee-mug.jpg"
+      ],
+      "seller": "HomeBasics",
+      "category": "Kitchenware"
+    },
+    {
+      "_id": "677ff3dde066db2c704cc285",
+      "title": "Laptop Backpack",
+      "description": "Water-resistant laptop backpack with multiple compartments.",
+      "stock": 60,
+      "price": 35.99,
+      "image": [
+        "https://example.com/images/laptop-backpack.jpg"
+      ],
+      "seller": "TravelPro",
+      "category": "Accessories"
+    },
+    {
+      "_id": "677ff3dde066db2c704cc286",
+      "title": "Digital Watch",
+      "description": "Stylish digital watch with multiple features and long battery life.",
+      "stock": 90,
+      "price": 29.99,
+      "image": [
+        "https://example.com/images/digital-watch.jpg"
+      ],
+      "seller": "TimeZone",
+      "category": "Accessories"
+    },
+    {
+      "_id": "677ff3dde066db2c704cc287",
+      "title": "LED Desk Lamp",
+      "description": "Adjustable LED desk lamp with touch controls and USB charging port.",
+      "stock": 35,
+      "price": 22.99,
+      "image": [
+        "https://example.com/images/led-desk-lamp.jpg"
+      ],
+      "seller": "BrightHome",
+      "category": "Home Decor"
+    },
+    {
+      "_id": "677ff3dde066db2c704cc288",
+      "title": "Yoga Mat",
+      "description": "Eco-friendly yoga mat with non-slip surface.",
+      "stock": 80,
+      "price": 19.99,
+      "image": [
+        "https://example.com/images/yoga-mat.jpg"
+      ],
+      "seller": "Healthify",
+      "category": "Fitness"
+    }
+  ]
+}
