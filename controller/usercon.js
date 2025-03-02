@@ -104,6 +104,8 @@ exports.loginUser=async(req,res)=>{
         } 
         //auth 30days
         const token=jwt.sign({_id:user.id},process.env.JWT_SECRET,{expiresIn:"10d"});
+        console.log("JWT_SECRET:", process.env.JWT_SECRET);
+
         //remove password for token generate
         const{password:userPassword, ...userDel}=user.toObject();
 
