@@ -1,116 +1,101 @@
-[
+[{
+  "name": "OPPO F21s Pro 5G",
+  "price": 245.67,
+  "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+  "ratings": 4.5,
+  "images": [
     {
-      "title": "Wireless Mouse",
-      "description": "A high-quality wireless mouse with ergonomic design.",
-      "stock": 50,
-      "price": 25.99,
-      "image": [
-        "https://example.com/images/wireless-mouse-front.jpg",
-        "https://example.com/images/wireless-mouse-back.jpg"
-      ],
-      "seller": "TechGear",
-      "category": "Electronics"
+      "image": "/images/products/1.jpg"
     },
     {
-      "title": "Gaming Keyboard",
-      "description": "RGB backlit gaming keyboard with mechanical switches.",
-      "stock": 30,
-      "price": 59.99,
-      "image": [
-        "https://example.com/images/gaming-keyboard-top.jpg",
-        "https://example.com/images/gaming-keyboard-side.jpg"
-      ],
-      "seller": "GameWorld",
-      "category": "Electronics"
-    },
-    {
-      "title": "Smartphone Stand",
-      "description": "Adjustable smartphone stand for hands-free usage.",
-      "stock": 100,
-      "price": 10.99,
-      "image": [
-        "https://example.com/images/smartphone-stand-front.jpg"
-      ],
-      "seller": "GadgetCo",
-      "category": "Accessories"
-    },
-    {
-      "title": "Bluetooth Speaker",
-      "description": "Portable Bluetooth speaker with deep bass and 12-hour battery life.",
-      "stock": 40,
-      "price": 39.99,
-      "image": [
-        "https://example.com/images/bluetooth-speaker.jpg"
-      ],
-      "seller": "SoundMax",
-      "category": "Electronics"
-    },
-    {
-      "title": "Running Shoes",
-      "description": "Lightweight running shoes with excellent grip and cushioning.",
-      "stock": 75,
-      "price": 49.99,
-      "image": [
-        "https://example.com/images/running-shoes-front.jpg",
-        "https://example.com/images/running-shoes-side.jpg"
-      ],
-      "seller": "FitWear",
-      "category": "Footwear"
-    },
-    {
-      "title": "Coffee Mug",
-      "description": "Ceramic coffee mug with a stylish design.",
-      "stock": 120,
-      "price": 8.99,
-      "image": [
-        "https://example.com/images/coffee-mug.jpg"
-      ],
-      "seller": "HomeBasics",
-      "category": "Kitchenware"
-    },
-    {
-      "title": "Laptop Backpack",
-      "description": "Water-resistant laptop backpack with multiple compartments.",
-      "stock": 60,
-      "price": 35.99,
-      "image": [
-        "https://example.com/images/laptop-backpack.jpg"
-      ],
-      "seller": "TravelPro",
-      "category": "Accessories"
-    },
-    {
-      "title": "Digital Watch",
-      "description": "Stylish digital watch with multiple features and long battery life.",
-      "stock": 90,
-      "price": 29.99,
-      "image": [
-        "https://example.com/images/digital-watch.jpg"
-      ],
-      "seller": "TimeZone",
-      "category": "Accessories"
-    },
-    {
-      "title": "LED Desk Lamp",
-      "description": "Adjustable LED desk lamp with touch controls and USB charging port.",
-      "stock": 35,
-      "price": 22.99,
-      "image": [
-        "https://example.com/images/led-desk-lamp.jpg"
-      ],
-      "seller": "BrightHome",
-      "category": "Home Decor"
-    },
-    {
-      "title": "Yoga Mat",
-      "description": "Eco-friendly yoga mat with non-slip surface.",
-      "stock": 80,
-      "price": 19.99,
-      "image": [
-        "https://example.com/images/yoga-mat.jpg"
-      ],
-      "seller": "Healthify",
-      "category": "Fitness"
+      "image": "/images/products/2.jpg"
     }
-  ]
-  
+  ],
+  "category": "Mobile Phones",
+  "seller": "Amazon",
+  "stock": 5
+},
+{
+  "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
+  "price": 150.32,
+  "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+  "ratings": 3.5,
+  "images": [
+    {
+      "image": "/images/products/2.jpg"
+    }
+  ],
+  "category": "Accessories",
+  "seller": "Flipkart",
+  "stock": 9
+},
+{
+  "name": "Dell Inspiron 3511 Laptop",
+  "price": 440.57,
+  "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
+  "ratings": 2,
+  "images": [
+    {
+      "image": "/images/products/3.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Ebay",
+  "stock": 9
+},
+{
+  "name": "Lenovo IdeaPad Slim 3 Laptop",
+  "price": 250.45,
+  "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+  "ratings": 4,
+  "images": [
+    {
+      "image": "/images/products/6.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Ebay",
+  "stock": 9
+},
+{
+  "name": "ASUS VivoBook 15 Laptop",
+  "price": 767.32,
+  "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/products/7.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Ebay",
+  "stock": 9
+},
+{
+  "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
+  "price": 15.46,
+  "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/products/4.jpg"
+    }
+  ],
+  "category": "Headphones",
+  "seller": "Amazon",
+  "stock": 4
+},
+{
+  "name": "Campus Men's Maxico Running Shoes",
+  "price": 10.12,
+  "description": "The high raised back cover with extra padding.",
+  "ratings": 3,
+  "images": [
+    {
+      "image": "/images/products/5.jpg"
+    }
+  ],
+  "category": "Sports",
+  "seller": "Ebay",
+  "stock": 6
+}]

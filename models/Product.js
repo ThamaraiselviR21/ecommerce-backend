@@ -1,7 +1,7 @@
 const mongoose=require("mongoose");
 const fs =require('fs')
 const schema= new mongoose.Schema({
-    title:{
+    name:{
         type:String,
         required:true
     },
@@ -33,9 +33,9 @@ const Product = mongoose.model("Product", schema);
 module.exports = Product;
 
 //let insertData = async () => {
-  //  const datajson = JSON.parse(fs.readFileSync('product.json', 'utf8'));
-  //  const result = await Product.insertMany(datajson);
-   // console.log(result);
+ //const datajson = JSON.parse(fs.readFileSync('product.json', 'utf8'));
+  //const result = await Product.insertMany(datajson);
+   //console.log(result);
 //}
 //insertData();
 
