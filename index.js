@@ -3,7 +3,8 @@ const app = express();
 const dotenv = require('dotenv');
 dotenv.config();
 const mongoose = require('mongoose');
-const cors=require('cors')
+const cors=require('cors');
+const path = require('path');
 const port = process.env.PORT || 3289; // Default to 3000 if PORT is not defined
 const user=require('./models/users')
 const Product=require('./models/Product.js')
@@ -30,13 +31,15 @@ app.use(cors());
 app.use("/api/",userRoute);
 app.use("/api/",proRoute);
 app.use("/api/",orderRoute);
+app.use('/images', express.static(path.join(__dirname, 'public', 'images')));
+
 
 
 
 
 // Default Route
 app.get('/', (req, res) => {
-
+    res.send("success")
 });
 
 // Start the Server
