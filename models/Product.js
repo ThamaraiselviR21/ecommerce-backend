@@ -33,7 +33,7 @@ const Product = mongoose.model("Product", schema);
 module.exports = Product;
 
 //let insertData = async () => {
- //const datajson = JSON.parse(fs.readFileSync('product.json', 'utf8'));
+// const datajson = JSON.parse(fs.readFileSync('product.json', 'utf8'));
  // const result = await Product.insertMany(datajson);
  // console.log(result);
 //}

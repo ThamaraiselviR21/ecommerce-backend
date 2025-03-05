@@ -1,87 +1,183 @@
 [
-  {
-      "name": "OPPO F21s Pro 5G",
-      "price": 245.67,
-      "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
-      "ratings": 4.5,
-      "image": [
-          "https://ecommerce-backend-9wwi.onrender.com/images/products/1.jpg",
-          "https://ecommerce-backend-9wwi.onrender.com/images/products/2.jpg"
-      ],
-      "category": "Mobile Phones",
-      "seller": "Amazon",
-      "stock": 5
-  },
-  {
-      "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
-      "price": 150.32,
-      "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
-      "ratings": 3.5,
-      "image": [
-          "https://ecommerce-backend-9wwi.onrender.com/images/products/2.jpg"
-      ],
-      "category": "Accessories",
-      "seller": "Flipkart",
-      "stock": 9
-  },
-  {
-      "name": "Dell Inspiron 3511 Laptop",
-      "price": 440.57,
-      "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
-      "ratings": 2,
-      "image": [
-          "https://ecommerce-backend-9wwi.onrender.com/images/products/3.jpg"
-      ],
-      "category": "Laptops",
-      "seller": "Ebay",
-      "stock": 9
-  },
-  {
-      "name": "Lenovo IdeaPad Slim 3 Laptop",
-      "price": 250.45,
-      "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
-      "ratings": 4,
-      "image": [
-          "https://ecommerce-backend-9wwi.onrender.com/images/products/6.jpg"
-      ],
-      "category": "Laptops",
-      "seller": "Ebay",
-      "stock": 9
-  },
-  {
-      "name": "ASUS VivoBook 15 Laptop",
-      "price": 767.32,
-      "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
-      "ratings": 5,
-      "image": [
-          "https://ecommerce-backend-9wwi.onrender.com/images/products/7.jpg"
-      ],
-      "category": "Laptops",
-      "seller": "Ebay",
-      "stock": 9
-  },
-  {
-      "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
-      "price": 15.46,
-      "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
-      "ratings": 5,
-      "image": [
-          "https://ecommerce-backend-9wwi.onrender.com/images/products/4.jpg"
-      ],
-      "category": "Headphones",
-      "seller": "Amazon",
-      "stock": 4
-  },
-  {
-      "name": "Campus Men's Maxico Running Shoes",
-      "price": 10.12,
-      "description": "The high raised back cover with extra padding.",
-      "ratings": 3,
-      "image": [
-          "https://ecommerce-backend-9wwi.onrender.com/images/products/5.jpg"
-      ],
-      "category": "Sports",
-      "seller": "Ebay",
-      "stock": 6
-  }
+    {
+        "name": "BTS TinyTAN Figure Set",
+        "price": 59.99,
+        "description": "Complete set of BTS TinyTAN figures featuring all seven members in adorable designs.",
+        "ratings": 4.8,
+        "image": [
+            "https://ecommerce-backend-9wwi.onrender.com/images/products/tiny.jpg"
+        ],
+        "category": "BTS Merchandise",
+        "seller": "Weverse Shop",
+        "stock": 10
+    },
+    {
+        "name": "Huda Beauty Eyeshadow Palette",
+        "price": 49.99,
+        "description": "Huda Beauty New Nude Eyeshadow Palette with 18 versatile shades for stunning eye makeup looks.",
+        "ratings": 4.9,
+        "image": [
+            "https://ecommerce-backend-9wwi.onrender.com/images/products/eye.jpg"
+        ],
+        "category": "Makeup",
+        "seller": "Sephora",
+        "stock": 10
+    },
+    {
+        "name": "Samsung 32-inch Smart TV",
+        "price": 229.99,
+        "description": "Samsung 32-inch HD Smart TV with built-in apps, Wi-Fi, and voice assistant compatibility.",
+        "ratings": 4.6,
+        "image": [
+            "https://ecommerce-backend-9wwi.onrender.com/images/products/tv.jpg"
+        ],
+        "category": "Electronics",
+        "seller": "Samsung Store",
+        "stock": 5
+    },
+    {
+        "name": "Celine Black Wool Jacket",
+        "price": 1200.00,
+        "description": "Luxurious black wool jacket from Celine, featuring a classic design with tailored fit and high-quality fabric. Perfect for both casual and formal wear.",
+        "ratings": 4.9,
+        "image": [
+            "https://ecommerce-backend-9wwi.onrender.com/images/products/v.jpg"
+    
+        ],
+        "category": "Clothing",
+        "seller": "Celine Official Store",
+        "stock": 5
+    },
+    {
+        "name": "Harry Potter Box Set (Books 1-7)",
+        "price": 59.99,
+        "description": "Complete Harry Potter series box set featuring all seven books by J.K. Rowling.",
+        "ratings": 5,
+        "image": [
+            "https://ecommerce-backend-9wwi.onrender.com/images/products/harry.jpg"
+        ],
+        "category": "Books",
+        "seller": "Amazon",
+        "stock": 15
+    },
+    {
+        "name": "Women's Floral Summer Dress",
+        "price": 29.99,
+        "description": "Beautiful floral print summer dress with breathable cotton fabric, perfect for casual outings.",
+        "ratings": 4.5,
+        "image": [
+            "https://ecommerce-backend-9wwi.onrender.com/images/products/sum.jpg"
+        ],
+        "category": "Clothing",
+        "seller": "H&M",
+        "stock": 12
+    },
+    {
+        "name": "BTS Official Light Stick (Army Bomb Ver. 4)",
+        "price": 45.99,
+        "description": "The official BTS Army Bomb Version 4, a must-have for every BTS concert experience.",
+        "ratings": 5,
+        "image": [
+            "https://ecommerce-backend-9wwi.onrender.com/images/products/army.jpg"
+        ],
+        "category": "BTS Merchandise",
+        "seller": "Weverse Shop",
+        "stock": 20
+    },
+    {
+        "name": "MAC Matte Lipstick - Ruby Woo",
+        "price": 19.99,
+        "description": "Iconic MAC Matte Lipstick in the shade Ruby Woo, perfect for bold, long-lasting color.",
+        "ratings": 4.8,
+        "image": [
+            "https://ecommerce-backend-9wwi.onrender.com/images/products/lipstick.jpg"
+        ],
+        "category": "Makeup",
+        "seller": "MAC Cosmetics",
+        "stock": 18
+    },
+    {
+        "name": "It Starts & Ends With Us by Colleen Hoover",
+        "price": 10.49,
+        "description": "A heart-wrenching tale of love and sacrifice from bestselling author Colleen Hoover.",
+        "ratings": 4.7,
+        "image": [
+            "https://ecommerce-backend-9wwi.onrender.com/images/products/it.jpg"
+        ],
+        "category": "Books",
+        "seller": "Barnes & Noble",
+        "stock": 18
+    },
+    {
+        "name": "Apple iPad Air 5th Gen",
+        "price": 599.99,
+        "description": "Apple iPad Air 5th Gen with M1 chip, 10.9-inch Liquid Retina display, and 5G connectivity.",
+        "ratings": 4.8,
+        "image": [
+            "https://ecommerce-backend-9wwi.onrender.com/images/products/ipad.jpg"
+        ],
+        "category": "Tablets",
+        "seller": "Apple Store",
+        "stock": 9
+    },
+    {
+        "name": "BTS Photocard Collection",
+        "price": 18.50,
+        "description": "Set of 56 premium BTS photocards featuring all eras from debut to latest album.",
+        "ratings": 4.6,
+        "image": [
+            "https://ecommerce-backend-9wwi.onrender.com/images/products/po.jpg"
+        ],
+        "category": "BTS Merchandise",
+        "seller": "KpopMart",
+        "stock": 30
+    },
+    {
+        "name": "Elegant Party Gown - Red",
+        "price": 69.99,
+        "description": "Stunning red party gown with sequin details and layered design, ideal for weddings and parties.",
+        "ratings": 4.7,
+        "image": [
+            "https://ecommerce-backend-9wwi.onrender.com/images/products/red.jpg"
+        ],
+        "category": "Clothing",
+        "seller": "Myntra",
+        "stock": 5
+    },
+    {
+        "name": "Puma Men's T-Shirt",
+        "price": 14.99,
+        "description": "Puma branded cotton t-shirt with comfortable fit for casual wear.",
+        "ratings": 4.1,
+        "image": [
+            "https://ecommerce-backend-9wwi.onrender.com/images/products/puma.jpg"
+        ],
+        "category": "Clothing",
+        "seller": "Puma Store",
+        "stock": 20
+    },
+    {
+        "name": "Woodland Leather Wallet",
+        "price": 22.00,
+        "description": "Genuine leather wallet by Woodland with multiple compartments and classic design.",
+        "ratings": 4.3,
+        "image": [
+            "https://ecommerce-backend-9wwi.onrender.com/images/products/wall.jpg"
+        ],
+        "category": "Accessories",
+        "seller": "Woodland Store",
+        "stock": 30
+    },
+    {
+        "name": "Philips Mixer Grinder HL7756",
+        "price": 62.50,
+        "description": "Philips Mixer Grinder with 750W motor, 3 stainless steel jars and advanced ventilation system.",
+        "ratings": 4.2,
+        "image": [
+            "https://ecommerce-backend-9wwi.onrender.com/images/products/mix.jpg"
+        ],
+        "category": "Home Appliances",
+        "seller": "Flipkart",
+        "stock": 8
+    }
 ]
